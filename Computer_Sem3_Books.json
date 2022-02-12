@@ -1,55 +1,98 @@
 {
-    "3130004": [
-        {
-            "img": "https://1.bp.blogspot.com/-ZX-KIveYtgU/YCpzZX6dL_I/AAAAAAAAAMk/bRC-sH2JlsoFK3yu2nOzOId7kHWtECcQACNcBGAsYHQ/s528/Screenshot_392.png",
-            "download_link": "https://bit.ly/37mOEPM",
-            "alt_data": "Technical"
-        }
-    ],
-    "3130006": [
-        
-    ],
-    "3130007": [
-        
-    ],
-  "3130008": [
-        
-    ],
-  "3130702": [
-        {
-            "img": "https://1.bp.blogspot.com/-6G_Sx3Qi28E/YCpyl4RKjMI/AAAAAAAAAMM/fe3uCWlv0ZM6-vr17UDqnMveukQcKfctgCNcBGAsYHQ/s320/Screenshot_390.png",
-            "download_link": "https://drive.google.com/file/d/1AoQbCHd5vhXS2djqukujn3i-CTNg6b1n/view?usp=sharing",
-            "alt_data": "This is Alter Tag "
-        },
-        {
-            "img": "https://1.bp.blogspot.com/--vW9CuH1LCg/YDc8mu8QbhI/AAAAAAAAAO0/lnUY0bO7S5UDLBRGrR2XP_wfgN4r4qAkgCNcBGAsYHQ/s320/Screenshot_445.png",
-            "download_link": "https://drive.google.com/file/d/1_64wGLvwdP-LDUF04U_rSgjfVWDpFlFc/view?usp=sharing",
-            "alt_data": "This is Alter Tag "
-        },
-        {
-            "img": "https://1.bp.blogspot.com/-IOdEUvn0lfA/YDc-7dpIFTI/AAAAAAAAAO8/YnRQTFMRBV8wBZA21RxNqUir9QOBDRaBwCNcBGAsYHQ/s320/Screenshot_446.png",
-            "download_link": "https://drive.google.com/file/d/1LISnUppoZcB8ENp8SWKZV86Pa_mKASAE/view?usp=sharing",
-            "alt_data": "This is Alter Tag "
-        }
-    ],
-  "3130703": [
-        {
-            "img": "https://1.bp.blogspot.com/-RLdiaIXNyhE/YCpzxczHFrI/AAAAAAAAAMs/tV_SwCp68iI7uQIagry3wbQVKkTUPWK3QCNcBGAsYHQ/s320/Screenshot_393.png",
-            "download_link": "https://drive.google.com/file/d/1RWHEFL1hrHP8948Aj97_knutQviwPV8M/view?usp=sharing",
-            "alt_data": "This is Alter Tag "
-        },
-        {
-            "img": "https://1.bp.blogspot.com/-MnQ4xPwDj00/YDiyMReY_AI/AAAAAAAAAPM/j6l-gAD7lzEQizLxBpb71xJJNLBCMSLRgCNcBGAsYHQ/w201-h276/Screenshot_450.png",
-            "download_link": "https://drive.google.com/file/d/1DCgYDEJ1jxUx2qY8lBbrg6t0YfEDVfbU/view?usp=sharing",
-            "alt_data": "This is Alter Tag "
-        },
-        {
-            "img": "https://1.bp.blogspot.com/-u43Kd3Bdg_o/YDiymFgUvDI/AAAAAAAAAPY/7dB5bvsUGLMuK5t4H9gjn1UroYVIwQWXgCNcBGAsYHQ/w213-h320/Screenshot_449.png",
-            "download_link": "https://drive.google.com/file/d/1cxCeZXj7pzSE_esjqPKm_nx52gZpcKCP/view?usp=sharing",
-            "alt_data": "This is Alter Tag "
-        }
-    ],
-  "3130704": [
-        
-    ]
+    "3130004": {
+        "subject_name": "Effective Technical Communication",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-ZX-KIveYtgU/YCpzZX6dL_I/AAAAAAAAAMk/bRC-sH2JlsoFK3yu2nOzOId7kHWtECcQACNcBGAsYHQ/s528/Screenshot_392.png",
+                "download_link": "https://bit.ly/37mOEPM",
+                "alt_data": "Technical"
+            }
+        ]
+    },
+    "3130006": {
+        "subject_name": "(Probability and Statistics) (3130006)",
+        "Books": [
+            {
+                "img": "https://images-eu.ssl-images-amazon.com/images/I/41bcO0HmbFL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+                "download_link": "https://bit.ly/2VpSFAA",
+                "alt_data": "MCGrewHill"
+            }
+        ]
+    },
+    "3130007": {
+        "subject_name": "IC (Indian Constitution) (3130007)",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-n0aSPo9bADE/YCp0N2nRGoI/AAAAAAAAAM4/-yikdiIpegA3HQdtoFbnNgTCY6Mymi7-ACNcBGAsYHQ/s320/Screenshot_395.png",
+                "download_link": "https://bit.ly/ICtechnical",
+                "alt_data": "Technical"
+            },
+            {
+                "img": "https://1.bp.blogspot.com/-R_VT3Wts21A/YCp0DvkKh3I/AAAAAAAAAM0/qnH2Tylp9JccVFVyeyQYQkC4QSZyUGaKQCNcBGAsYHQ/s320/Screenshot_394.png",
+                "download_link": "https://bit.ly/ICMcGrewHill",
+                "alt_data": "McGrewHill"
+            },
+            {
+                "img": "https://1.bp.blogspot.com/-GQUFzvhJ2Z0/YDXX5-AR9lI/AAAAAAAAAOo/GVYhf51qACwEq-2hosNeKYOhQstrI9szwCNcBGAsYHQ/s320/Screenshot_444.png",
+                "download_link": "https://bit.ly/IindianConstitution",
+                "alt_data": "Indian Constitution"
+            }
+
+        ]
+    },
+    "3130702": {
+        "subject_name": "DS (Data Structure) (3130702)",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-6G_Sx3Qi28E/YCpyl4RKjMI/AAAAAAAAAMM/fe3uCWlv0ZM6-vr17UDqnMveukQcKfctgCNcBGAsYHQ/s320/Screenshot_390.png",
+                "download_link": "https://drive.google.com/file/d/1AoQbCHd5vhXS2djqukujn3i-CTNg6b1n/view?usp=sharing",
+                "alt_data": "Technical"
+            },
+            {
+                "img": "https://1.bp.blogspot.com/--vW9CuH1LCg/YDc8mu8QbhI/AAAAAAAAAO0/lnUY0bO7S5UDLBRGrR2XP_wfgN4r4qAkgCNcBGAsYHQ/s320/Screenshot_445.png",
+                "download_link": "https://drive.google.com/file/d/1_64wGLvwdP-LDUF04U_rSgjfVWDpFlFc/view?usp=sharing",
+                "alt_data": "Reema Thareja"
+            },
+            {
+                "img": "https://1.bp.blogspot.com/-IOdEUvn0lfA/YDc-7dpIFTI/AAAAAAAAAO8/YnRQTFMRBV8wBZA21RxNqUir9QOBDRaBwCNcBGAsYHQ/s320/Screenshot_446.png",
+                "download_link": "https://drive.google.com/file/d/1LISnUppoZcB8ENp8SWKZV86Pa_mKASAE/view?usp=sharing",
+                "alt_data": "Algorithams"
+            }
+        ]
+    },
+    "3130703": {
+        "subject_name": "DBMS (Database Management System ) (3130703)",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-RLdiaIXNyhE/YCpzxczHFrI/AAAAAAAAAMs/tV_SwCp68iI7uQIagry3wbQVKkTUPWK3QCNcBGAsYHQ/s320/Screenshot_393.png",
+                "download_link": "https://drive.google.com/file/d/1RWHEFL1hrHP8948Aj97_knutQviwPV8M/view?usp=sharing",
+                "alt_data": "Technical "
+            },
+            {
+                "img": "https://1.bp.blogspot.com/-MnQ4xPwDj00/YDiyMReY_AI/AAAAAAAAAPM/j6l-gAD7lzEQizLxBpb71xJJNLBCMSLRgCNcBGAsYHQ/w201-h276/Screenshot_450.png",
+                "download_link": "https://drive.google.com/file/d/1DCgYDEJ1jxUx2qY8lBbrg6t0YfEDVfbU/view?usp=sharing",
+                "alt_data": "Pearson"
+            },
+            {
+                "img": "https://1.bp.blogspot.com/-u43Kd3Bdg_o/YDiymFgUvDI/AAAAAAAAAPY/7dB5bvsUGLMuK5t4H9gjn1UroYVIwQWXgCNcBGAsYHQ/w213-h320/Screenshot_449.png",
+                "download_link": "https://drive.google.com/file/d/1cxCeZXj7pzSE_esjqPKm_nx52gZpcKCP/view?usp=sharing",
+                "alt_data": "C J Date"
+            }
+        ]
+    },
+    "3130704": {
+        "subject_name": "DF (Digital Fundamentals) (3130704)",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-KJTF4d5ZBlY/YCpzCYYeeEI/AAAAAAAAAMc/Mm1gJobxq_MDhGsvqy75WCdgvldYHzQOQCNcBGAsYHQ/s320/Screenshot_391.png",
+                "download_link": "https://drive.google.com/file/d/1GiFtHTTwQJLa7Jc6pKuX7KgDl7CrcwHF/view?usp=sharing",
+                "alt_data": "Technical "
+            },
+            {
+                "img": "https://1.bp.blogspot.com/-UmkP-thVjHo/YDXDRNNLXiI/AAAAAAAAAOc/ESxvM4j94hcUbShAwejIqzYnlTbV6zWDQCNcBGAsYHQ/s320/Screenshot_442.png",
+                "download_link": "https://drive.google.com/file/d/1wjWHSpPiiE1BoE8UffnpJX4DILq-I6Nw/view?usp=sharing",
+                "alt_data": "Morris Mono"
+            }
+        ]
+    }
 }
