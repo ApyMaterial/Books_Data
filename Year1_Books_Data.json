@@ -1,0 +1,138 @@
+{
+    "3110001": {
+        "subject_name": "Chemistry",
+        "Books": [
+        ]
+    },
+    "3110002": {
+        "subject_name": "English",
+        "Books": [
+            {
+                "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgplUUMrXBehykUS6dvo4TgFcT7-VsVuLOdJpdLVFhjGqPl3njFj0R_MeGNXtmwRkC5UQn376JtoB5ORSeW1wyHJP_85ZWcVhCVkU6NNkARYyqXLuRCGOM8EaNoDe5FA8RXfos1N0j3RwO1QnO9Zc_-SN1fpiei3X2M6IOP5m1QSu6iJmSzncmsHdD3hA",
+                "download_link": "https://bit.ly/3J7NzwP",
+                "alt_data": "MCGrewHill"
+            }
+        ]
+    },
+    "3110003": {
+        "subject_name": "Programming For Problem Solving (PPS)",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-IlkJv87CPrM/YDSJp5w_1xI/AAAAAAAAAOE/K4O-hIakBuIk5oh1CBKAjkEsxxmH4Z4SQCNcBGAsYHQ/s520/Screenshot_440.png",
+                "download_link": "https://bit.ly/3AFO2lM",
+                "alt_data": "C Notes For Professional"
+            }
+
+        ]
+    },
+    "3110004": {
+        "subject_name": "Basic Civil Engineering ",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-_7125Zu3LkM/YDSHijvglQI/AAAAAAAAANU/l9LhJO49LL0q43XFutiaSY1ILsaW7fkeQCNcBGAsYHQ/s367/Screenshot_435.png",
+                "download_link": "https://bit.ly/3rlydwo",
+                "alt_data": "Basic Civil Engineering  Book New Age Pub"
+            }
+        ]
+    },
+    "3110005": {
+        "subject_name": "Basic Electrical Engineering ",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-R8f91friPL0/YDSHzbmanpI/AAAAAAAAANc/CmDU0hLnTJ0ATpw630jokTGkCt1LADDDQCNcBGAsYHQ/s330/Screenshot_436.png",
+                "download_link": "https://bit.ly/2U8f5G3",
+                "alt_data": "Technical "
+            }
+        ]
+    },
+    "3110007": {
+        "subject_name": "Environmental Science ",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-B1jqGEKMzAs/YDSI-3COfXI/AAAAAAAAAN0/m-aGwBSQ6wcnN4jFU57uxPdYjZoPAi_fwCNcBGAsYHQ/s500/5115b1HHdML._SX405_BO1%252C204%252C203%252C200_.jpg",
+                "download_link": "https://bit.ly/3reMrPr",
+                "alt_data": "Environmental Science Atul Part - 1 "
+            },
+            {
+                "img": "https://1.bp.blogspot.com/-B1jqGEKMzAs/YDSI-3COfXI/AAAAAAAAAN0/m-aGwBSQ6wcnN4jFU57uxPdYjZoPAi_fwCNcBGAsYHQ/s500/5115b1HHdML._SX405_BO1%252C204%252C203%252C200_.jpg",
+                "download_link": "https://bit.ly/3nJ4HAN",
+                "alt_data": "Environmental Science Atul Part - 2"
+            }
+        ]
+    },
+    "3110011": {
+        "subject_name": "Physics-I",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-1k2OmpCdn9Q/YDSJdkRP5jI/AAAAAAAAAOA/x5hpKzvEQu4ygDna042CYjx4gFkIg8irwCNcBGAsYHQ/s515/Screenshot_439.png",
+                "download_link": "https://bit.ly/3xKjcXj",
+                "alt_data": "Environmental Science Atul"
+            }
+            
+        ]
+    },
+    "3110012": {
+        "subject_name": "Workshop",
+        "Books": [
+        ]
+    },
+    "3110013": {
+        "subject_name": "Engineering Graphics & Design ",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-bE2BD2IOoBE/YDSIi4XnZHI/AAAAAAAAANs/N5XW5Q871qsClrtNFHPizqFAVYYEMxSywCNcBGAsYHQ/s765/Screenshot_438.png",
+                "download_link": "https://bit.ly/3z1opKu",
+                "alt_data": "Engineering Graphics & Design Notes"
+            }
+            
+        ]
+    },
+    "3110014": {
+        "subject_name": "Mathematics - I ",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-gNxs09LbS5I/YDSHHyu2GlI/AAAAAAAAANM/eJ7z4paHdzkcyCYF6SVdylOR_XqzOfwrACNcBGAsYHQ/s320/41ZjR0ENyCL.jpg",
+                "download_link": "https://bit.ly/2UOx9VF",
+                "alt_data": "Mathematics - I  McGrewHill"
+            }
+            
+        ]
+    },
+    "3110015": {
+        "subject_name": "Mathematics - II ",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-1y0rNOYpGe0/YIJZD3BKqSI/AAAAAAAAAaU/9merjrdS_RASkY-ONsFSlCmhtjZqVIMzACNcBGAsYHQ/s320/Screenshot_419.png",
+                "download_link": "https://bit.ly/2Uaz1Im",
+                "alt_data": "Mathematics - II Thomas"
+            },
+            {
+                "img": "https://1.bp.blogspot.com/-zRXUdRS62GQ/YIJYI1oYqNI/AAAAAAAAAaM/9-YT1Kkz_EA197atZWmICiRr5fF8FizZACNcBGAsYHQ/s300/Engineering-Mathematics-for-Semesters-I-and-II-205x300.jpg",
+                "download_link": "https://bit.ly/3xLRPvQ",
+                "alt_data": "Mathematics - II McGrewHill  "
+            }           
+        ]
+    },
+    "3110016": {
+        "subject_name": "Basic Electronics ",
+        "Books": [
+            {
+                "img": "https://1.bp.blogspot.com/-Hck_9MPBOyE/YDSIFUwoUrI/AAAAAAAAANk/H9C6GavG12QWxUTRXxxp9XstPSV_LdHhgCNcBGAsYHQ/s340/Screenshot_437.png",
+                "download_link": "https://bit.ly/3wJNzvx",
+                "alt_data": "Basic Electronics Pearson "
+            }
+                       
+        ]
+    },
+    "3110006": {
+        "subject_name": "Basic Mechanical Engineering",
+        "Books": [
+            {
+                "img": "https://3.bp.blogspot.com/-c0sdMe3HVK4/V0lELHW8cwI/AAAAAAAAAck/S-ZGKflj6Mwa10yyvUKpWMF0vBEdnDhjwCLcB/s1600/Mech-eng.jpg",
+                "download_link": "https://drive.google.com/drive/folders/1A_NJFv4FNORH3GV7Ivrtv5FIr8f0Uqa-?usp=sharing",
+                "alt_data": "Basic Mechanical Engineering "
+            }
+                       
+        ]
+    }
+}
