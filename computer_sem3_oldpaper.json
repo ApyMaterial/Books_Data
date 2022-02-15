@@ -1,0 +1,124 @@
+{
+    "3130004": {
+        "sub": "Effective Technical Communication",
+        "oldpaper": [
+            {
+                "year": "Summer-20",
+                "link": "https://bit.ly/3itKoEi"
+            },
+            {
+                "year": "Winter-20",
+                "link": "https://bit.ly/2U0jSZT"
+            },
+            {
+                "year": "Winter-19",
+                "link": "https://bit.ly/2VzwJCU"
+            }
+        ]
+    },
+    "3130006": {
+        "sub": "Probability and Statistics",
+        "oldpaper": [
+            {
+                "year": "Summer-20",
+                "link": "https://bit.ly/3fHphg5"
+            },
+            {
+                "year": "Winter-20",
+                "link": "https://bit.ly/3Cm98pU"
+            },
+            {
+                "year": "Winter-19",
+                "link": "https://bit.ly/3xl1icA"
+            }
+        ]
+    },
+    "3130007": {
+        "sub": "Indian Constitution",
+        "oldpaper": [
+            {
+                "year": "Summer-20",
+                "link": "https://bit.ly/3ivDEpO"
+            },
+            {
+                "year": "Winter-20",
+                "link": "https://bit.ly/3ywErfE"
+            },
+            {
+                "year": "Winter-19",
+                "link": "https://bit.ly/2TX93b9"
+            }
+        ]
+    },
+    "3130702": {
+        "sub": "Data Structures",
+        "oldpaper": [
+            {
+                "year": "Summer-20",
+                "link": "https://leher.to/bit/ly/YGNX0F"
+            },
+            {
+                "year": "Winter-19",
+                "link": "https://leher.to/bit/ly/5jvYnb"
+            },
+            {
+                "year": "Summer-19",
+                "link": "https://leher.to/bit/ly/FGcPMU"
+            },
+            {
+                "year": "Winter-18",
+                "link": "https://leher.to/bit/ly/FUTHlW"
+            },
+            {
+                "year": "Summer-18",
+                "link": "https://leher.to/bit/ly/S1aPO2"
+            }
+        ]
+    },
+    "3130703": {
+        "sub": "Database Management Systems",
+        "oldpaper": [
+            {
+                "year": "Summer-20",
+                "link": "https://leher.to/bit/ly/nmxHsJ"
+            },
+            {
+                "year": "Winter-20",
+                "link": "https://leher.to/bit/ly/akD4vi"
+            },
+            {
+                "year": "Winter-19",
+                "link": "https://leher.to/bit/ly/wCMp2M"
+            },
+            {
+                "year": "Summer-19",
+                "link": "https://leher.to/bit/ly/X0ehfK"
+            },
+            {
+                "year": "Winter-18",
+                "link": "https://leher.to/bit/ly/LG02gK"
+            },
+            {
+                "year": "Summer-18",
+                "link": "https://leher.to/bit/ly/oBM7Ly"
+            }
+        ]
+    },
+    "3130704": {
+        "sub": "Digital Fundamentals",
+        "oldpaper": [
+            {
+                "year": "Summer-20",
+                "link": "https://leher.to/bit/ly/ZFsiox"
+            },
+            {
+                "year": "Winter-20",
+                "link": "https://leher.to/bit/ly/aliUFS"
+            },
+            {
+                "year": "Winter-19",
+                "link": "https://leher.to/bit/ly/DICu6F"
+            }
+        ]
+    }
+}
