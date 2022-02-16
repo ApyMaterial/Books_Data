@@ -1,5 +1,43 @@
 {
     "subject_name": "Analysis and Design of Algorithms",
+    "known_as": "ADA",
+    "subjecet_code": "3150703",
+    "syllabus": "https://bit.ly/3rXqKDU",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3gMvJ5N"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3CnmgLD"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3fCWCcc"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/37qpRKH"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3scz5nz"
+        },
+        {
+            "year": "Summer-17",
+            "link": "https://bit.ly/3jvu85g"
+        },
+        {
+            "year": "Winter-17",
+            "link": "https://bit.ly/3jpZvhi"
+        }
+    ],
+    "paper_solution": "",
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
     "Books": [
         {
             "img": "https://1.bp.blogspot.com/-SMvjdg18HEI/YKSYnK8lt7I/AAAAAAAAAfM/e4BXb44Fuh00iehReZUah7iQIX7FOaeywCNcBGAsYHQ/s320/Screenshot_1.png",
